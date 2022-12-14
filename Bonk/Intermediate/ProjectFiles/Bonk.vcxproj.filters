@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Bonk.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bonk.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BonkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Bonk">
+      <UniqueIdentifier>{047A6F26-5731-3489-8C2E-27996FBC73BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bonk\Bonk.Build.cs">
+      <Filter>Source\Bonk</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Bonk\Bonk.cpp">
+      <Filter>Source\Bonk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Bonk.h">
+      <Filter>Source\Bonk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\BonkGameModeBase.cpp">
+      <Filter>Source\Bonk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\BonkGameModeBase.h">
+      <Filter>Source\Bonk</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Actors">
+      <UniqueIdentifier>{ED7C0591-B29E-3B10-9570-9835A778E245}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bonk\Actors\BonkAudience.cpp">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Actors\BonkAudience.h">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Actors\BonkBonker.cpp">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Actors\BonkBonker.h">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Actors\BonkCameraActor.cpp">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Actors\BonkCameraActor.h">
+      <Filter>Source\Bonk\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Components">
+      <UniqueIdentifier>{7B6AE3A9-8475-3230-AE30-97491708CD65}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkAbilityComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAbilityComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkAttribute.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_AttackSpeed.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_Damage.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_Health.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_MoveSpeed.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_Resilience.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkAttribute_WeaponSize.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkBonkableComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkBonkableComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkBonkerComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkBonkerComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkBonkerSphereComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkBonkerSphereComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkGameplayEffect.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkGameplayEffect.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkItemInteractableComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkItemInteractableComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Components\BonkItemInteractComponent.cpp">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Components\BonkItemInteractComponent.h">
+      <Filter>Source\Bonk\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Core">
+      <UniqueIdentifier>{458E267C-FE8F-315A-97B8-3AC7E19B87EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bonk\Core\BonkGameInstance.cpp">
+      <Filter>Source\Bonk\Core</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Core\BonkGameInstance.h">
+      <Filter>Source\Bonk\Core</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Libraries">
+      <UniqueIdentifier>{B00DEA06-32CD-3BFD-ABEC-3EA9A9883866}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bonk\Libraries\BonkMacros.h">
+      <Filter>Source\Bonk\Libraries</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Player">
+      <UniqueIdentifier>{CAF8B29B-067E-3788-AEFD-F875ED04664D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bonk\Player\BonkLobbyPawn.cpp">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Player\BonkLobbyPawn.h">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Player\BonkPlayer.cpp">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Player\BonkPlayer.h">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bonk\Player\BonkPlayerPawn.cpp">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Player\BonkPlayerPawn.h">
+      <Filter>Source\Bonk\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bonk\Widgets">
+      <UniqueIdentifier>{0B17191F-BC14-3C28-9F27-B2897F31338E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bonk\Widgets\BonkHUD.cpp">
+      <Filter>Source\Bonk\Widgets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bonk\Widgets\BonkHUD.h">
+      <Filter>Source\Bonk\Widgets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

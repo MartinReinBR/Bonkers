@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\actors\\bonkcameraactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\bonkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\development\\bonk\\definitions.bonk.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\actors\\bonkcameraactor.h",
+            "e:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameraactor.h",
+            "e:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameraactor.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkcameraactor.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\libraries\\bonkmacros.h",
+            "e:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "e:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetmathlibrary.generated.h",
+            "e:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

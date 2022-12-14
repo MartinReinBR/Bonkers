@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkiteminteractcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\bonkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\development\\bonk\\definitions.bonk.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkiteminteractcomponent.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\libraries\\bonkmacros.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkiteminteractcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

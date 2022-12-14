@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bonk",
+			"Path": "C:\\XSchoolThingsXOneDrive\\Unreal\\martin.rendahl_GP4\\Bonk\\Source\\Bonk.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BonkEditor",
+			"Path": "C:\\XSchoolThingsXOneDrive\\Unreal\\martin.rendahl_GP4\\Bonk\\Source\\BonkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

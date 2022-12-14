@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\actors\\bonkbonkercapsule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\bonkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\development\\bonk\\definitions.bonk.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\actors\\bonkbonkercapsule.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\actors\\bonkbonker.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkbonker.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkbonkercapsule.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkbonkercomponent.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkbonkercomponent.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkiteminteractablecomponent.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkiteminteractablecomponent.generated.h",
+            "e:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "e:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "e:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

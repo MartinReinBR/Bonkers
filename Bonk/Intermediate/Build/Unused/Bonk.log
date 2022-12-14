@@ -1,0 +1,31 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Burtil\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for BonkEditor (working set of source files changed)
+  Parsing headers for BonkEditor
+    Running UnrealHeaderTool "C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Bonk.uproject" "C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\BonkEditor\Development\BonkEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Burtil\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for BonkEditor in 1.6616986 seconds
+  Building BonkEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 7 GB available: limiting max parallel actions to 4
+  Building 11 actions with 4 processes...
+  [1/11] Compile BonkBonkableComponent.gen.cpp
+  [2/11] Compile BonkBonkableComponent.cpp
+  [3/11] Compile BonkBonkerComponent.cpp
+  [4/11] Compile BonkBonker.cpp
+  [5/11] Compile BonkAbilityComponent.cpp
+  [6/11] Compile BonkPlayerPawn.gen.cpp
+  [7/11] Compile BonkPlayerPawn.cpp
+  [8/11] Compile BonkGameModeBase.cpp
+C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Source\Bonk\Actors\BonkCameraActor.h(33): warning C4263: 'FVector ABonkCameraActor::GetTargetLocation(void)': member function does not override any base class virtual member function
+C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Source\Bonk\Actors\BonkCameraActor.h(113): warning C4264: 'FVector AActor::GetTargetLocation(AActor *) const': no override available for virtual member function from base 'AActor'; function is hidden
+  E:\Games\UE_5.0\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h(3237): note: see declaration of 'AActor::GetTargetLocation'
+  C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\UnrealEditor\Inc\Bonk\BonkCameraActor.generated.h(11): note: see declaration of 'AActor'
+  [9/11] Link UnrealEditor-Bonk.lib
+     Creating library C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\UnrealEditor\Development\Bonk\UnrealEditor-Bonk.lib and object C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\UnrealEditor\Development\Bonk\UnrealEditor-Bonk.exp
+  [10/11] Link UnrealEditor-Bonk.dll
+     Creating library C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\UnrealEditor\Development\Bonk\UnrealEditor-Bonk.suppressed.lib and object C:\XSchoolThingsXOneDrive\Unreal\martin.rendahl_GP4\Bonk\Intermediate\Build\Win64\UnrealEditor\Development\Bonk\UnrealEditor-Bonk.suppressed.exp
+  [11/11] WriteMetadata BonkEditor.target
+  Total time in Parallel executor: 8.04 seconds
+  Total execution time: 12.31 seconds

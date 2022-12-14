@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattributeset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\bonkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\development\\bonk\\definitions.bonk.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattributeset.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattributeset.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_attackspeed.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_attackspeed.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_damage.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_damage.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_health.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_health.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_movespeed.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_movespeed.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_resilience.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_resilience.generated.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\source\\bonk\\components\\bonkattribute_weaponsize.h",
+            "c:\\xschoolthingsxonedrive\\unreal\\martin.rendahl_gp4\\bonk\\intermediate\\build\\win64\\unrealeditor\\inc\\bonk\\bonkattribute_weaponsize.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
